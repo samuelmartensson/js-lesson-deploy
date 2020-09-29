@@ -1,22 +1,22 @@
 {
   "files": {
     "main.css": "/js-lesson-deploy/static/css/main.41ab198f.chunk.css",
-    "main.js": "/js-lesson-deploy/static/js/main.b7d6c1d0.chunk.js",
-    "main.js.map": "/js-lesson-deploy/static/js/main.b7d6c1d0.chunk.js.map",
+    "main.js": "/js-lesson-deploy/static/js/main.5a2a3b2a.chunk.js",
+    "main.js.map": "/js-lesson-deploy/static/js/main.5a2a3b2a.chunk.js.map",
     "runtime-main.js": "/js-lesson-deploy/static/js/runtime-main.a09f93b5.js",
     "runtime-main.js.map": "/js-lesson-deploy/static/js/runtime-main.a09f93b5.js.map",
-    "static/js/2.d8a4f0fb.chunk.js": "/js-lesson-deploy/static/js/2.d8a4f0fb.chunk.js",
-    "static/js/2.d8a4f0fb.chunk.js.map": "/js-lesson-deploy/static/js/2.d8a4f0fb.chunk.js.map",
+    "static/js/2.7d1f527d.chunk.js": "/js-lesson-deploy/static/js/2.7d1f527d.chunk.js",
+    "static/js/2.7d1f527d.chunk.js.map": "/js-lesson-deploy/static/js/2.7d1f527d.chunk.js.map",
     "index.html": "/js-lesson-deploy/index.html",
-    "precache-manifest.f8d5ac8c304286484afc2a187d84a4a8.js": "/js-lesson-deploy/precache-manifest.f8d5ac8c304286484afc2a187d84a4a8.js",
+    "precache-manifest.197f3645bd8987e0acea2bc38e9bb4b0.js": "/js-lesson-deploy/precache-manifest.197f3645bd8987e0acea2bc38e9bb4b0.js",
     "service-worker.js": "/js-lesson-deploy/service-worker.js",
     "static/css/main.41ab198f.chunk.css.map": "/js-lesson-deploy/static/css/main.41ab198f.chunk.css.map",
-    "static/js/2.d8a4f0fb.chunk.js.LICENSE.txt": "/js-lesson-deploy/static/js/2.d8a4f0fb.chunk.js.LICENSE.txt"
+    "static/js/2.7d1f527d.chunk.js.LICENSE.txt": "/js-lesson-deploy/static/js/2.7d1f527d.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.a09f93b5.js",
-    "static/js/2.d8a4f0fb.chunk.js",
+    "static/js/2.7d1f527d.chunk.js",
     "static/css/main.41ab198f.chunk.css",
-    "static/js/main.b7d6c1d0.chunk.js"
+    "static/js/main.5a2a3b2a.chunk.js"
   ]
 }
