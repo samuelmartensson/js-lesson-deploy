@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "38fe0884a3f4dc95c8fcceff242f0b86",
+    "revision": "20c5ff6a8ab5ef7c3fb00ea955f502d9",
     "url": "/js-lesson-deploy/index.html"
   },
   {
-    "revision": "1186c0a561967796dc50",
+    "revision": "cfe16126f8a9540421a3",
     "url": "/js-lesson-deploy/static/css/main.41ab198f.chunk.css"
   },
   {
-    "revision": "f66d22c6dac73604008d",
-    "url": "/js-lesson-deploy/static/js/2.c367f1be.chunk.js"
+    "revision": "2ce7d4591de85b27471b",
+    "url": "/js-lesson-deploy/static/js/2.d8a4f0fb.chunk.js"
   },
   {
     "revision": "c64c486544348f10a6d6c716950bc223",
-    "url": "/js-lesson-deploy/static/js/2.c367f1be.chunk.js.LICENSE.txt"
+    "url": "/js-lesson-deploy/static/js/2.d8a4f0fb.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "1186c0a561967796dc50",
-    "url": "/js-lesson-deploy/static/js/main.0bcbcb53.chunk.js"
+    "revision": "cfe16126f8a9540421a3",
+    "url": "/js-lesson-deploy/static/js/main.bbcab7d2.chunk.js"
   },
   {
     "revision": "328f0ec1c4f51601524f",
